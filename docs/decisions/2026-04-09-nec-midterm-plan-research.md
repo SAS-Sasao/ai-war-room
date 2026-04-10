@@ -184,6 +184,35 @@ NECは2つのゾーンで出展:
 
 ---
 
+---
+
+## Deep Dive（2026-04-10 追加）
+
+本レポートの各テーマをさらに深掘りした資料:
+
+1. **[BluStellar リテール向けシナリオ/オファリング Deep Dive](2026-04-10-blustellar-retail-deep-dive.md)**
+   - 3層構造（Products → Offerings → Scenario）の詳細
+   - 8つのシナリオグループとリテールとの関連度マッピング
+   - "Smart Retail CX" コンセプトとNEC製品のBluStellarマッピング
+   - 提案のフレーミング方法（シナリオチェーン/横展開/発展の3パターン）
+   - 弾込め3層提案のBluStellar語翻訳
+
+2. **[cotomi & Agentic AI 戦略 Deep Dive](2026-04-10-cotomi-agentic-ai-deep-dive.md)**
+   - cotomiのバージョン進化（v1→v3）と技術仕様
+   - GPT-4/Claudeとの差別化ポイントと使い分け
+   - Agentic AIの3段階ロードマップ（Action→Process→Business変革）
+   - cotomi Act（Web自動操作エージェント）の詳細
+   - 操縦者のAIスキルとの接点分析
+
+3. **[NEC中期経営計画 財務ブレイクダウン](2026-04-10-nec-midterm-plan-financial-breakdown.md)**
+   - BU構造とリテール事業の組織階層
+   - セグメント別売上・利益データ（リテール推定1,000〜1,500億円）
+   - BluStellar 20%利益率の正体（シナリオ構成比33%→63%）
+   - 9ブロックマトリクス評価と5つのCode of Values
+   - コンビニIT市場での競合ポジショニング（NEC vs 富士通 vs 日立）
+
+---
+
 ## Sources
 - [NEC IR Day 2025: BluStellar & 安全保障](https://cloud.watch.impress.co.jp/docs/column/ohkawara/2063931.html)
 - [NEC 2025中期経営計画 公式](https://jpn.nec.com/ir/library/plan2025_report.html)
