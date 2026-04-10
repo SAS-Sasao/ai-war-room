@@ -16,3 +16,6 @@ Thumbs.db
 # エディタ
 .vscode/
 .idea/
+
+# 作業トレースアーカイブ（個人情報を含む）
+.archive/

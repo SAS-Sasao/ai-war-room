@@ -44,6 +44,13 @@ claude
 | `/daily-log` | 日報記録 |
 | `/office-work {作業内容}` | 事務作業（Excel/PPT/メール） |
 | `/nemawashi {相談内容}` | 根回し文案作成 |
+| `/self-debate {案}` | 自分のアイデアを論破 |
+| `/self-propose {テーマ}` | お前ならこうやる、と提案 |
+| `/bias-check {文章}` | バイアスチェック |
+| `/past-brainstorm {トレンド}` | 過去ログ×トレンドのブレスト |
+| `/extract-thinking-os` | decisions+logs から思考OS抽出 |
+| `/trace-update` | Claude Code履歴から作業傾向を抽出 |
+| `/update-os [quick/full/check]` | 思考OS更新ラッパー |
 
 ## ディレクトリ構成
 
