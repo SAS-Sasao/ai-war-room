@@ -1,0 +1,23 @@
+# プロファイル情報（センシティブ）
+docs/profile.md
+docs/minefield.md
+docs/bugs.md
+docs/mental-care.md
+
+# Claude Code ローカル設定
+.claude/settings.local.json
+CLAUDE.local.md
+
+# MCP設定（トークン含む可能性）
+.mcp.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+.idea/
+
+# 作業トレースアーカイブ（個人情報を含む）
+.archive/
